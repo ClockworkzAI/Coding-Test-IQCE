@@ -20,7 +20,7 @@ Create a simple Calculator console application
   - Provide a menu of operations.
   - User should be asked if they would like to repeat an operation for a new set of values or return to main menu.
   - Allow user to exit program (Program must not terminate after calculation is complete).
-  - Allow user to navigate with keyboard arrow keys (Use any suitable framework).
+  - Allow user to navigate with keyboard arrow keys (Use any suitable framework (if using c# consider spectre.console)).
 - Design Patterns and principles to be used
   - Model View controller
   - Object Oriented Programming
@@ -34,6 +34,7 @@ Create a simple Calculator console application
 
 ## Resources
 - Place any resource used below.
+- https://spectreconsole.net/
 
 ---
 If you require any assistance or clarification, contact ashton.seloka@iqce.co.za
