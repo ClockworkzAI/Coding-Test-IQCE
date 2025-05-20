@@ -14,7 +14,7 @@ Create a simple Calculator console application
     - When dividing by 0.
     - User enters char or string instead of an integer or float.
   - Calculation History
-    - Must be able to store and disaplay last 10 calculation.
+    - Must be able to store and display last 10 calculation.
     - Use a list or an array to store values.
 - User Interface
   - Provide a menu of operations.
